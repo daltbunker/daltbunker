@@ -1,7 +1,7 @@
 <h2>Hello there, I’m Dalton - @daltbunker</h2>
 - I’m interested in Software Engineering, Web Development, and Data Science<br>
 - I’m currently learning React<br>
-- I like Rock Climbing 🧗 Disc Golf 🥏 Skiing ⛷
+- I like Rock Climbing 🧗 Disc Golf 🥏 and Skiing ⛷
 <br>
 <h2>Contact</h2>
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
