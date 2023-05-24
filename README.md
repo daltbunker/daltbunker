@@ -1,4 +1,4 @@
-<h2>Hey, I’m Dalton - @daltbunker</h2>
+<h2>@daltbunker</h2>
 <div>
 - Web Developer at Delta Airlines
 <img alt="Delta Logo" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.8NQCvvFw8Q8gBDbiq1ZQZAHaEK%26pid%3DApi&f=1" />
